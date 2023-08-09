@@ -1,0 +1,9 @@
+hii ,
+Hello sir, I am currently watching your python game development series and 
+I am having a problem when I click on my up arrow key it doesn't work like when 
+my snake is  moving and I click on up arrow key,  nothing happens but when 
+I click on right arrow key after pressing the up arrow key it starts to go up 😥and 
+when I click again on right arrow key it goes right. Every key is working perfectly just 
+this problem is occurring while pressing up arrow key . I don't know why is this happening 
+I had typed every codes perfectly in correct line. I think the issue is occurring in my laptop or pucharm. 
+So sir can you please tell me anyway to fix it. I am using windows 10 . Please sir help me.
